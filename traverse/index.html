@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Traverse</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="style.css" rel="stylesheet">
+  <link href="https://cesium.com/downloads/cesiumjs/releases/1.118/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+</head>
+<body>
+  <!-- Side Trip Panel -->
+  <div id="tripPanel">
+    <h3>Plan a Trip</h3>
+    <input type="text" id="tripName" placeholder="Trip Name">
+    <input type="text" id="cityName" placeholder="City Name">
+    <div id="note" contenteditable="true" class="editable-note" placeholder="Notes..."></div>
+    <button id="saveTrip">Save Trip</button>
+    <h3>Saved Trips</h3>
+    <ul id="tripList"></ul>
+  </div>
+
+  <!-- Cesium Globe -->
+  <div id="cesiumContainer"></div>
+
+  <!-- Your bundled JavaScript -->
+  <script type="module" src="main.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
