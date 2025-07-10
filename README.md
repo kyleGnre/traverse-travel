@@ -35,5 +35,5 @@ Traverse is an interactive 3D travel planning application powered by **CesiumJS*
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/traverse-app.git
+   git clone https://github.com/kyleGnre/traverse-travel.git
    cd traverse-app
