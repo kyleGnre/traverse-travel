@@ -1,5 +1,7 @@
 # 🌍 Traverse – CesiumJS Travel Itinerary Planner
 
+## Demo - https://youtu.be/7bnjq6lKPgc?si=W5P5Qc5DyXFS5fds
+
 Traverse is an interactive 3D travel planning application powered by **CesiumJS**. It allows users to explore cities around the globe, discover points of interest (POIs), and build personalized travel itineraries with interactive notes and saved trips. Built with modern JavaScript and geolocation APIs, it's designed for a smooth and visually immersive planning experience.
 
 ---
